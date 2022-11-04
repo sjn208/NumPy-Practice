@@ -11,5 +11,5 @@ P3: find the local maxima of an array.
 
 P2: find the value closest to a number in an array. 
 
-P1: create an array n,m of 0's with a border of 1's. 
+P1: create an array nxm of 0's with a border of 1's. 
 
